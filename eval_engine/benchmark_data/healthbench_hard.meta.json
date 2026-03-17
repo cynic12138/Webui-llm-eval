@@ -1,0 +1,7 @@
+{
+  "benchmark_id": "healthbench_hard",
+  "description": "HealthBench meta evaluation subset",
+  "source": "openai/healthbench",
+  "sample_count": 29511,
+  "downloaded_at": "2026-03-04T07:27:23Z"
+}

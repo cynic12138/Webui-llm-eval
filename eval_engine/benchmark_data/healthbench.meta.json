@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "healthbench",
+  "description": "OpenAI medical health LLM evaluation benchmark",
+  "source": "openai/healthbench",
+  "sample_count": 5000,
+  "hf_path": "openai/healthbench",
+  "hf_name": null,
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:27:15Z"
+}

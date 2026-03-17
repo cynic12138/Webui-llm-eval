@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "math",
+  "description": "Competition-level mathematics benchmark",
+  "source": "DigitalLearningGmbH/MATH-lighteval",
+  "sample_count": 5000,
+  "hf_path": "DigitalLearningGmbH/MATH-lighteval",
+  "hf_name": null,
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:25:25Z"
+}

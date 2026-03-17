@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "ceval",
+  "description": "Chinese evaluation benchmark",
+  "source": "ceval/ceval-exam",
+  "sample_count": 1268,
+  "hf_path": "ceval/ceval-exam",
+  "hf_name": null,
+  "hf_split": "val",
+  "downloaded_at": "2026-03-04T07:25:04Z"
+}

@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "gsm8k",
+  "description": "Grade School Math 8K - arithmetic reasoning",
+  "source": "openai/gsm8k",
+  "sample_count": 1319,
+  "hf_path": "openai/gsm8k",
+  "hf_name": "main",
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:20:28Z"
+}

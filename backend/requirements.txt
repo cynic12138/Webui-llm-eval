@@ -1,0 +1,44 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+sqlalchemy[asyncio]==2.0.28
+alembic==1.13.1
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+pydantic==2.6.3
+pydantic-settings==2.2.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-multipart==0.0.9
+celery==5.3.6
+redis==5.0.2
+minio==7.2.5
+httpx==0.27.0
+openai==1.14.0
+anthropic==0.20.0
+pandas==2.2.1
+openpyxl==3.1.2
+reportlab==4.1.0
+Pillow==10.2.0
+tenacity==8.2.3
+python-dotenv==1.0.1
+websockets==12.0
+aiofiles==23.2.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+nltk==3.8.1
+# For safety/toxicity detection
+detoxify==0.5.2
+transformers==4.38.2
+torch==2.2.1
+# For robustness testing
+textdistance==4.6.2
+# For objective evaluation metrics
+rouge-score==0.1.2
+sacrebleu==2.4.3
+# For data processing
+lxml==6.0.2
+datasets==4.6.1
+requests==2.32.5
+aiohttp==3.13.3
+pycryptodome==3.23.0

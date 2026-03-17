@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "swe_bench",
+  "description": "Software engineering task resolution benchmark",
+  "source": "princeton-nlp/SWE-bench_Lite",
+  "sample_count": 300,
+  "hf_path": "princeton-nlp/SWE-bench_Lite",
+  "hf_name": null,
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:25:42Z"
+}

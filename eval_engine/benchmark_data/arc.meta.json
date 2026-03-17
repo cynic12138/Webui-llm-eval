@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "arc",
+  "description": "AI2 Reasoning Challenge - science questions",
+  "source": "allenai/ai2_arc",
+  "sample_count": 1172,
+  "hf_path": "allenai/ai2_arc",
+  "hf_name": "ARC-Challenge",
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:25:31Z"
+}

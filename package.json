@@ -1,0 +1,15 @@
+{
+  "name": "webui-llm-eval-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root package for PM2 ecosystem config (dotenv dependency)",
+  "scripts": {
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop all",
+    "restart": "pm2 restart all",
+    "logs": "pm2 logs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "ifeval",
+  "description": "Instruction-Following Evaluation with verifiable constraints",
+  "source": "google/IFEval",
+  "sample_count": 541,
+  "hf_path": "google/IFEval",
+  "hf_name": null,
+  "hf_split": "train",
+  "downloaded_at": "2026-03-04T07:25:36Z"
+}

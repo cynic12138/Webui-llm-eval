@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "hellaswag",
+  "description": "Commonsense NLI benchmark",
+  "source": "Rowan/hellaswag",
+  "sample_count": 10042,
+  "hf_path": "Rowan/hellaswag",
+  "hf_name": null,
+  "hf_split": "validation",
+  "downloaded_at": "2026-03-04T07:25:14Z"
+}

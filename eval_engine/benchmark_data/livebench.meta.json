@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "livebench",
+  "description": "Contamination-free benchmark with regularly updated questions",
+  "source": "livebench/*",
+  "sample_count": 200,
+  "hf_path": "livebench/reasoning",
+  "hf_name": null,
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:26:05Z"
+}

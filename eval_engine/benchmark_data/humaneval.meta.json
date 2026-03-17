@@ -1,0 +1,10 @@
+{
+  "benchmark_id": "humaneval",
+  "description": "Python code generation benchmark",
+  "source": "openai/openai_humaneval",
+  "sample_count": 164,
+  "hf_path": "openai/openai_humaneval",
+  "hf_name": null,
+  "hf_split": "test",
+  "downloaded_at": "2026-03-04T07:20:32Z"
+}
